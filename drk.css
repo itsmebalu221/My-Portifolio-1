@@ -82,14 +82,17 @@ header{
 
 .red{
 color: red;
+    cursor:help;
 }
 
 .white{
 color: aliceblue;
+    cursor:help;
 }
 
 .green{
 color: rgb(28, 218, 28);
+    cursor:help;
 }
 
 .tooltip {
