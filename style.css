@@ -198,9 +198,7 @@ svg{
     width: 5px;
     
     border-radius: 50px;
-    @media(max-width: 768px) {
-        margin: 80px 0px;
-    }
+    
     
 }
 
